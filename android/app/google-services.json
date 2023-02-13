@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "319761018091",
+    "project_id": "fashioon-c5ee3",
+    "storage_bucket": "fashioon-c5ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319761018091:android:66a2489b05e76c6b2ca2ae",
+        "android_client_info": {
+          "package_name": "com.example.fashioon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319761018091-26soq9049lrsk6qeejagfenfseg2p9t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQMP_91eyU-neWzoiJ72rKXV5U3asU-nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319761018091-26soq9049lrsk6qeejagfenfseg2p9t3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "319761018091-gfludmlm999vuqgdgaso5j46idbbt4ol.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fashioon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
